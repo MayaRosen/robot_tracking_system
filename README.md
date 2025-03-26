@@ -4,7 +4,7 @@ This project is a robotics application developed to allow a **Unitree robot** to
 
 ## 📜 Background
 
-This project was created with the aim of helping **elderly individuals** by providing them with companionship through autonomous technology. The robot is designed to **follow elderly users** to reduce feelings of loneliness and enhance **social interaction**. This project is also being developed in collaboration with the **Department of Social Work**, aiming to improve the **quality of life for elderly people** by integrating technology into daily routines, offering both physical and social support.
+The project was created with the aim of helping **elderly individuals** by providing them with companionship through autonomous technology. The robot is designed to **follow elderly users** to reduce feelings of loneliness and enhance **social interaction**. This project is also being developed in collaboration with the **Department of Social Work**, aiming to improve the **quality of life for elderly people** by integrating technology into daily routines, offering both physical and social support.
 
 The **Unitree robot** has been integrated with **UWB tracking technology**, allowing the robot to track and follow individuals based on **yaw**, **distance**, and **orientation**. These capabilities enable the robot to assist in a variety of scenarios, whether indoors or in controlled environments.
 
