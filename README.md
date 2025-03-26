@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/9728d296-00f0-42ee-8840-3a89ccced501
 
 If you want to see more, watch the full video here:  
 
-[Watch the full video](https://drive.google.com/file/d/YOUR_FULL_VIDEO_ID/view?usp=sharing](https://drive.google.com/file/d/1y5uJrUNbBmD8gUMaUH7Z9pUbusQSkdvf/view?t=9)
+[Watch the full video](https://drive.google.com/file/d/1y5uJrUNbBmD8gUMaUH7Z9pUbusQSkdvf/view?t=9)
 
 ---
 
