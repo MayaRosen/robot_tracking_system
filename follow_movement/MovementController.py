@@ -12,7 +12,7 @@ class MovementController:
             relative_yaw -= 2 * math.pi
         return "front" if abs(relative_yaw) < math.pi / 2 else "back"
 
-    def compute_movement(self, initial_yaw, target_distance=0.5, max_speed=0.5, max_rotation_speed=0.6, yaw_threshold=0.2):
+    def compute_movement(self, initial_yaw, target_distance=0.65, max_speed=0.6, max_rotation_speed=0.6, yaw_threshold=0.25):
         state = self.state_manager.remote_state
         current_distance = max(0, state.distance_est - 0.5)
         orientation = state.orientation_est
