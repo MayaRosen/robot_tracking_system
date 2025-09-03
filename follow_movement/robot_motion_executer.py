@@ -38,7 +38,7 @@ class RobotMotionExecutor:
                         found = detect_objects("frame.jpg")
                         if "person" in found:
                             print("🐶 person detected!")
-                            self.client.stretch()
+                            self.client.Hello()
                 except Exception as e:
                     print(f"[Detection error] {e}")
                 time.sleep(2.0)  # Run every 2 seconds
