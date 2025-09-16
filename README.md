@@ -8,7 +8,7 @@ See 📘 [**Project wiki**](https://github.com/MayaRosen/robot_tracking_system/w
   * Algorithm Design
   * Code Overview
   * Future Development Suggestions
-  * Videos
+  * Media
 
 
 Hope you enjoy😊
